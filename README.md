@@ -39,7 +39,7 @@ This project implements a lightweight SOC-style telemetry pipeline designed to s
 - Registry actions correlated with command execution events
 
 ### Host Reconnaissance
-- Execution of reconnaissance commands (whoami, ipconfig, nslookup)
+- Execution of reconnaissance commands (whoami, nslookup)
 - Detected via Sysmon process creation telemetry
 
 ### DNS Enumeration
