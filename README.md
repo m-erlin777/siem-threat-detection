@@ -13,7 +13,7 @@ This project implements a lightweight SOC-style telemetry pipeline designed to s
 • **Aggregation Node (Raspberry Pi)**
   - Receives endpoint logs
   - Forwards structured events to SIEM
-  - 
+
 • **SIEM Platform (Ubuntu VM)**
   - Elasticsearch for storage and search
   - Kibana for investigation and dashboards
